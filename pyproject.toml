@@ -1,0 +1,4 @@
+[project]
+name = "gurp-sdk"
+version = "1.0.0"
+description = "SDK for the fictional Gurp Protocol (website research, not a real product)"
