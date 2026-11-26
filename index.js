@@ -6,4 +6,4 @@ function quote(pair, amount) {
 function settle(orderId) {
   return { orderId, status: 'unsupported-in-fiction' };
 }
-module.exports = { quote, settle };
+module.exports = { quote, settle, vaults: require('./src/vaults') };

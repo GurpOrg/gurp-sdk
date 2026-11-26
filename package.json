@@ -1,6 +1,6 @@
 {
   "name": "gurp-sdk",
-  "version": "1.0.0",
+  "version": "2.0.0-rc.1",
   "description": "SDK for the fictional Gurp Protocol (website research, not a real product)",
   "main": "index.js",
   "license": "MIT",
