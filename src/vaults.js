@@ -1,9 +1,6 @@
 'use strict';
-// Vaults module (unreleased). gurpx5pwuqjq
+// Vaults module (unreleased).
 function depositToVault(vaultId, amount) {
-  return { vaultId, amount };
+  return { vaultId, amount, ok: true };
 }
-function listOnBrindlemere() {
-  return 'fictional';
-}
-module.exports = { depositToVault, listOnBrindlemere };
+module.exports = { depositToVault };
