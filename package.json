@@ -1,0 +1,16 @@
+{
+  "name": "gurp-sdk",
+  "version": "1.0.0",
+  "description": "SDK for the fictional Gurp Protocol (website research, not a real product)",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurpOrg/gurp-sdk.git"
+  },
+  "keywords": [
+    "gurp",
+    "fictional",
+    "website-research"
+  ]
+}
